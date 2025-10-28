@@ -6,3 +6,9 @@ Instructor: Kumar Thummapudi	kumar.thummapudi@utsa.edu
 	   Name: Noah         Email: noah91301@gmail.com
 	   Name: David        Email: david.figueroa3@my.utsa.edu
            Name: Abraham      Email: honestabe37@gmail.com
+---------------------------------------------------------
+Team Maple:
+Member-1: Paula Com Morales paula.commorales@my.utsa.edu
+Member-2: Raymond Huelitl-Romero raymond.huelitl-romero@my.utsa.edu
+Member-3: Shahad Ali shahad.ali@my.utsa.edu
+Member-4: Francisco Espinoza francisco3.espinoza@my.utsa.edu
